@@ -1,6 +1,4 @@
-$$
 # matrix
-$$
 
 No reino binário, onde zeros e uns dançam,
 Nas entranhas do código, a realidade se trança.
