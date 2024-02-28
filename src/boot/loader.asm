@@ -24,7 +24,7 @@ halt:
 %include "src/lib/stdio/puts.asm"
 
 loading_msg: db 'Loading...', EOL, 0
-hello_msg:   db 'Make yourself better', EOL, 0
+hello_msg:   db 'Voce acredita que e o escolhido porque foi dito a voce. Mas, se voce fosse o escolhido, nao precisaria ser dito. Voce apenas saberia.', EOL, 0
 
 times 510-($-$$) db 0
 dw 0xaa55
